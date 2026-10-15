@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareDesk Customer Support Management System
 
 CareDesk is a comprehensive full-stack customer support dashboard built with React, Vite, Tailwind CSS v4, Node.js, Express, and PostgreSQL.
@@ -65,3 +66,6 @@ CareDesk is a comprehensive full-stack customer support dashboard built with Rea
 
 ## License
 MIT
+=======
+# CareDesk-Customer-Support-Management-System
+>>>>>>> 3af1bcd42ec1f70402db3091d2be222518f9a505
